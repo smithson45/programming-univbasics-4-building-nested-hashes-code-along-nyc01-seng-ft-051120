@@ -18,4 +18,3 @@ epic_tragedy = {
       ]
    }
 }
-end
